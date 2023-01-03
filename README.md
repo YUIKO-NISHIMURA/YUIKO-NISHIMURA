@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Yuiko</h1>
 
 
-<p>Hi! I'm Yuiko, a front end developer from Japan currently living in Vancouver, Canada</b>. </p>
+<p>Hi! I'm Yuiko, a Frontend developer from Japan currently living in Vancouver, Canada.</br>
+</p>
 <h3>Specializations</h3>
 <p>
 React.js/Next.js/PHP
